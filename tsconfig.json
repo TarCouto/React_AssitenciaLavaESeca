@@ -25,7 +25,9 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true, // Adicionado
+    "esModuleInterop": true // Adicionado
   },
   "include": [
     "src"
