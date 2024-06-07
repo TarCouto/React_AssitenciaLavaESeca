@@ -46,7 +46,7 @@ export default function Services() {
                         <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-md">Contact us</button>
                     </div>
                     <div className="w-1/2">
-                        <img src="/src/assets/maquina.webp" alt="Tire" className="mx-auto" />
+                        <img src="/maquina.webp" alt="Tire" className="mx-auto" />
                     </div>
                 </div>
                 <div className="flex flex-col md:flex-row items-start">
